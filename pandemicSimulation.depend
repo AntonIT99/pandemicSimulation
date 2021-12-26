@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1613419617 source:c:\users\alpha\documents\c & c++ projects\pandemicsimulation\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<locale>
+	<cmath>
+
